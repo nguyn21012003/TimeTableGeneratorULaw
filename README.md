@@ -25,4 +25,8 @@ git clone https://github.com/nguyn21012003/TimeTableGeneratorULaw.git
 cd TimeTable
 
 pip install -r requirements.txt
+```
 
+### Demo 
+
+![demo](images/demo.png)
